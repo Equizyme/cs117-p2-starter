@@ -42,7 +42,7 @@ $`y = y_0 + (y_1 - y_0) \frac{x-x_0}{x_1 - x_0}`$
 - Convert a mathematical formula to C++ code
 - Use if/else statements
 
-## Task 1 - Write Hello World
+## Task 1 - Write the program
 
 Using the above background and theory develop a C++ program that asks a user for
 a temperature (e.g. 169.2, 183.4, 420.7, 322.1, 400.0), calculate the entropy
