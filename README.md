@@ -40,7 +40,6 @@ $`y = y_0 + (y_1 - y_0) \frac{x-x_0}{x_1 - x_0}`$
 - Use cin to read data from the user
 - Use cout to output to the standard output stream
 - Convert a mathematical formula to C++ code
-- Use if/else statements
 
 ## Task 1 - Write the program
 
@@ -54,6 +53,20 @@ Using the information above we can calculate the entropy of superheated water at
 $`s = 7.2810 + (7.5081-7.2810)  \frac{175.3-150}{200-150}`$
 
 $`s = 7.3959 kJ/(kg.K)`$
+
+### Sample output
+
+```bash
+shane|(master=):build$ ./myprogram
+Enter a temperature in C (150-500): 169.2
+The entropy is: 7.3682 kJ/(kg.K)
+shane|(master=):build$ ./myprogram
+Enter a temperature in C (150-500): 183.4
+The entropy is: 7.4327 kJ/(kg.K)
+shane|(master=):build$ ./myprogram
+Enter a temperature in C (150-500): 420.7
+The entropy is: 8.2840 kJ/(kg.K)
+```
 
 ## Task 2 - Generate Build Files
 
@@ -99,7 +112,7 @@ script once if you are recompiling you can skip Task 2 above.
 ### Example output
 
 ```bash
-spanter@onyx $ ./myprogram
+$ ./myprogram
 Enter a temp in C : 175.3
 The entropy is: 7.3959kJ/(kg.K)
 ```
