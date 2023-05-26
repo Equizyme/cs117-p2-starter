@@ -57,13 +57,13 @@ $`s = 7.3959 kJ/(kg.K)`$
 ### Sample output
 
 ```bash
-shane|(master=):build$ ./myprogram
+$ ./myprogram
 Enter a temperature in C (150-500): 169.2
 The entropy is: 7.3682 kJ/(kg.K)
-shane|(master=):build$ ./myprogram
+$ ./myprogram
 Enter a temperature in C (150-500): 183.4
 The entropy is: 7.4327 kJ/(kg.K)
-shane|(master=):build$ ./myprogram
+$ ./myprogram
 Enter a temperature in C (150-500): 420.7
 The entropy is: 8.2840 kJ/(kg.K)
 ```
