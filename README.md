@@ -41,7 +41,7 @@ $`y = y_0 + (y_1 - y_0) \frac{x-x_0}{x_1 - x_0}`$
 - Use cout to output to the standard output stream
 - Convert a mathematical formula to C++ code
 
-## Task 0 - Generate Build Files
+## Task 1 - Generate Build Files
 
 There are two scripts in the root directory named `clean.sh` and `release.sh`.
 One creates a release build to compile your project and the other will delete
@@ -64,7 +64,7 @@ shane|(master *%=):solution$ ./release.sh
 -- Build files have been written to: ...
 ```
 
-## Task 1 - Write the program
+## Task 2 - Write the program
 
 Using the above background and theory develop a C++ program that asks a user for
 a temperature (e.g. 169.2, 183.4, 420.7, 322.1, 400.0), calculate the entropy
@@ -91,7 +91,13 @@ Enter a temperature in C (150-500): 420.7
 The entropy is: 8.2840 kJ/(kg.K)
 ```
 
-## Task 2 - Complete the Retrospective
+## Task 3 - Unit Testing
+
+Your instructor will provide you with unit testing scripts to help guide your
+development. These will be posted on canvas with instructions on how to add
+them to your project.
+
+## Task 4 - Complete the Retrospective
 
 Once you have completed all the tasks open the file **Retrospective.md** and
 complete each section that has a TODO label.
@@ -111,7 +117,7 @@ For the **Sources used** section you must detail any sources you used outside of
 the textbook or course website. If you write NONE in this section it is assumed
 that you didn't use google at all. Be safe CITE!
 
-## Task 3 - Add, Commit, Push your code
+## Task 5 - Add, Commit, Push your code
 
 Once you are finished you need to make sure that you have pushed all your code
 to GitHub for grading! You will not be submitting anything to canvas everything
