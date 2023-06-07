@@ -33,7 +33,7 @@ $`y = y_0 + (y_1 - y_0) \frac{x-x_0}{x_1 - x_0}`$
 
 ## Important Links
 
-- Review the [grading rubric](https://shanepanter.com/cs452/grading-rubric.html)
+- Review the [grading rubric](https://shanepanter.com/cs117/grading-rubric.html)
 
 ## Objectives
 
