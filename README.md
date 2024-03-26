@@ -31,10 +31,6 @@ $`y = y_0 + (y_1 - y_0) \frac{x-x_0}{x_1 - x_0}`$
 
 ![graph](graph.png)
 
-## Important Links
-
-- Review the [grading rubric](https://shanepanter.com/cs117/grading-rubric.html)
-
 ## Objectives
 
 - Use cin to read data from the user
