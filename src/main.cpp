@@ -33,13 +33,13 @@ int main()
     }
    
 
-  else if ((temp >= 300) && (temp <= 400)) {X0 = 300;
+    else if ((temp >= 300) && (temp <= 400)) {X0 = 300;
     X1 = 400;
     Y0 = 11;
     Y1 = 8.2236;
     }
 
-  else if ((temp > 400) && (temp <= 500)) {X0 = 400;
+    else if ((temp > 400) && (temp <= 500)) {X0 = 400;
     X1 = 500;
     Y0 = 8.2236;
     Y1 = 8.5153;
