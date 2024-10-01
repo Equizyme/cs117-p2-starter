@@ -1,20 +1,20 @@
 # Retrospective
 
-- name: TODO
-- email: TODO
+- name: Gabe Cavazos
+- email: Gabriel.r.cavazos@gmail.com
 
 ## Learning
 
-TODO - Detail one new thing that you learned when working on this project.
+If you use variables in an if else branch and nowhere else you need to define them at the start. 
 
 ## Known issues or Bugs
 
-TODO - Detail any bugs that you could not solve before the deadline.
+NA
 
 ## Bugs fixed in the instructor provided code
 
-TODO - List all the bugs that you fixed in the starter code.
+NA
 
 ## Sources used
 
-TODO - List any sources you used when working on this project.
+ZyBooks, classmates. 
